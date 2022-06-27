@@ -1,7 +1,7 @@
-Project setup
-```
+## Project setup
+
 After cloning the repo run the following command.
-##
+```
 npm install
 
 ## Running the Dashboard
