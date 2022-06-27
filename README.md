@@ -12,7 +12,5 @@ To access the Dashboard, run the following command in the "Superalgos-Network-No
 npm start
 ```
 
---- Data is automatically refreshed every 5 seconds.
 
-
-
+--- When you open the Url in the browser, you display it on the dashboard. Data is automatically refreshed every 5 seconds.
